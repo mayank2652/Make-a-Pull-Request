@@ -31,6 +31,7 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Sian Takk](https://github.com/zellowcactus)
 - [Nischal Basuti](https://github.com/nischalbasuti)
 - [Mudit Surana](https://github.com/surana-mudit)
+- [Srijan Jha](https://github.com/SrijanJha28)
 - [Martijn B](https://github.com/x1mdev)
 - [Rahul Bisnoi](https://github.com/nanspro)
 - [Ashish Jha](https://github.com/thedreamsaver)
