@@ -26,7 +26,6 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Burak Tokak](https://github.com/btk/)
 - [Srijan Jha](https://github.com/SrijanJha28)
 - [Aryan Gaurav](https://github.com/Aryan-Gaurav)
-- [Shubhangi Pandey](https://github.com/meshubhangi)
 - [Filipe Ramalho](https://github.com/FilipeRamalho)
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
 - [Sian Takk](https://github.com/zellowcactus)
@@ -48,7 +47,7 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Anirudh Sharma](https://github.com/Anirudh5)
 - [Anjali Bansal](https://github.com/bansalanjali2512)
 - [Burak Tokak](https://github.com/btk/)
-
+- [Daksh Chaturvedi](https://github.com/daksh249)
 - [Debashish Nayak](https://github.com/theindianotaku)
 - [Ansh Sachdeva](https://github.com/chaostools)
 - [Christopher Moura](https://github.com/christophermoura)
