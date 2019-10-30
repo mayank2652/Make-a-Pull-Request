@@ -25,6 +25,7 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Syed Faraaz Ahmad](https://github.com/faraazahmad/)
 - [Burak Tokak](https://github.com/btk/)
 - [Srijan Jha](https://github.com/SrijanJha28)
+- [Aryan Gaurav](https://github.com/Aryan-Gaurav)
 - [Shubhangi Pandey](https://github.com/meshubhangi)
 - [Filipe Ramalho](https://github.com/FilipeRamalho)
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
