@@ -30,6 +30,7 @@ After [adding your own page in the **Students** page](https://github.com/rishabh
 - [Vaibhav Rai](https://github.com/RaiVaibhav)
 - [Sian Takk](https://github.com/zellowcactus)
 - [Nischal Basuti](https://github.com/nischalbasuti)
+- [Shubhangi Pandey](https://github.com/meshubhangi)
 - [Mudit Surana](https://github.com/surana-mudit)
 - [Srijan Jha](https://github.com/SrijanJha28)
 - [Martijn B](https://github.com/x1mdev)
